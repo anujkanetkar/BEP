@@ -1,2 +1,2 @@
-# BEP
-Final Year Project
+# Bachelor's Thesis
+BE Project
