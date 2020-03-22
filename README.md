@@ -1,2 +1,2 @@
-# Bachelor's Thesis
-BE Project
+# BE Project
+Bachelor's Thesis
