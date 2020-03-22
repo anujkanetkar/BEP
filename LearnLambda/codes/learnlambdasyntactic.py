@@ -1,9 +1,3 @@
-"""
-Author : Shriniwas Nayak
-
-Date : 14th March 2020
-"""
-
 import logging
 import nltk
 import os
